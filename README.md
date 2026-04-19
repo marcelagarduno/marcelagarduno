@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I'm Marcela!
 
-<!--
-**marcelagarduno/marcelagarduno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 About Me
+Hi! I'm Marcela, a recent graduate from San Diego State University with a B.S. in Statistics (Data Science emphasis). I'm passionate about analyzing data, uncovering trends, and turning insights into clear, actionable results. 
 
-Here are some ideas to get you started:
+### 💻 Skills
+- Languages: R, Python, SQL
+- Tools: Excel, Tableau
+- Core Skills: Data cleaning, exploratory data analysis, data visualization, statistical analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Projects
+📊 #### San Diego County Unemployment Trend Analysis
+Analyzed unemployment trends (1990-2024) using LAUS data, applying statistical methods including ANOVA, bootstrap resampling, and linear regression.
+Key Finding: Post-COVID unemployment rates increased by ~1.36%, with no significant seasonal patterns.
+
+🔗 #### Linkedin: [Let's Connect!](linkedin.com/in/marcelagarduno)
